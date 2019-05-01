@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace StudioVoices
+namespace StudioVoices.UI
 {
     public class Program
     {

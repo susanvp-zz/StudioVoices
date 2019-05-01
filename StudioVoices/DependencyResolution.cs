@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 
-namespace StudioVoices
+namespace StudioVoices.UI
 {
     public static class DependencyResolution
     {
