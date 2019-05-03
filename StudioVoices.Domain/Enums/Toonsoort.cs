@@ -1,0 +1,30 @@
+﻿namespace StudioVoices.Domain.Enums
+{
+    public enum Toonsoort
+    {
+        C,
+        Cm,
+        Db,
+        Dbm,
+        D,
+        Dm,
+        Eb,
+        Ebm,
+        E,
+        Em,
+        F,
+        Fm,
+        Gb,
+        Gbm,
+        G,
+        Gm,
+        Ab,
+        Abm,
+        A,
+        Am,
+        Bb,
+        Bbm,
+        B,
+        Bm
+    }
+}
